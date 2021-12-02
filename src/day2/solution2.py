@@ -1,4 +1,4 @@
-from typing import Dict, List
+from typing import List
 
 
 def parse_input(filename: str) -> List:
