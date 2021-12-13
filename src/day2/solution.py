@@ -26,4 +26,3 @@ if __name__ == "__main__":
     horizontal = get_horizontal_position(directions)
     depth = get_depth(directions)
     print("Solution 1:", depth * horizontal)
-    # print("Solution 2:", get_increased_measurement_sum(measurements))
